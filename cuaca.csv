@@ -1,4 +1,4 @@
-cuaca1,suhu,kelembaban,angin,main
+cuaca,suhu,kelembaban,angin,main
 overcast,hot,high,FALSE,yes
 overcast,cool,normal,TRUE,yes
 overcast,mild,high,TRUE,yes
